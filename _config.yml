@@ -1,6 +1,6 @@
 # Site settings
 title: ReadUnread
-description: "读点儿……"
+description: "一起读点儿？"
 url: "https://readunread.cn"
 
 
@@ -13,10 +13,10 @@ headercolor: "#FFFFFF"
 logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
+github_username:  gccgle
 project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
+disqus_shortname: readunread
+g-analytics: 
 altmetric: true
 
 # Build settings
