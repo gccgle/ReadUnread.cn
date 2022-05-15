@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "why we meet here？"
+description: "为什么我们会在这里？"
 header-img: "img/about.jpg"
 ---
 
