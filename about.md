@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "About"
-description: "Why use Project Pages?"
-header-img: "img/home-bg.jpg"
+description: "why we meet here？"
+header-img: "img/about.jpg"
 ---
 
-Project Pages is a research blog tool that allows you to quickly show your latest results to an advisor, collaborators or your mom.
+读人文，读历史，读社会，读自然……读名著，读偏门；读主客观，读形而上下；读今朝，读未来；读人，读己。**读，与未读。**
 	
