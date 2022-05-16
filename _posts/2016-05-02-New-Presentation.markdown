@@ -8,10 +8,10 @@ subtitle:    	Some Short Description of Presentation
 theme:		night # default/beige/blood/moon/night/serif/simple/sky/solarized
 trans:		default # default/cube/page/concave/zoom/linear/fade/none
 
-horizontal:	</section></section><section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+horizontal:	</section></section><section markdown="1" data-background="https://readunread.cn/img/slidebackground.png"><section markdown="1">
 vertical:		</section><section markdown="1">
 ---
-<section markdown="1" data-background="http://projectpages.github.io/project-pages/img/slidebackground.png"><section markdown="1">
+<section markdown="1" data-background="https://readunread.cn/img/slidebackground.png"><section markdown="1">
 ## {{ page.title }}
 
 <hr>
