@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Project 1"
-description: "Description of Project #1"
+title: "Consciousness Bowl"
+description: "the bowl of consciousness"
 header-img: "img/home-bg.jpg"
 category: project1
 ---
