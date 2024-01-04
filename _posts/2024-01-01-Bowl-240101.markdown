@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      【意识碗.20240101】
+title:      意识碗.20240101
 author:     Al
 tags: 		post template
-subtitle:  	「很多人要的仪式感，是你来负责“仪式”，TA来负责“感"。」
+subtitle:  	很多人要的仪式感，是你来负责“仪式”，TA来负责“感"。
 category:  project1
 ---
 <!-- Start Writing Below in Markdown -->
