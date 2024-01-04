@@ -2,9 +2,9 @@
 layout:     post
 title:      局外人
 author:     Al
-tags: 		post template
+tags: 		Read Thoughts
 subtitle:  	文明，是一簇人自我强加的、取最大公约数的规则集。
-category:  project1
+category:  read
 ---
 <!-- Start Writing Below in Markdown -->
 

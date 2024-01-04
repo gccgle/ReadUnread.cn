@@ -2,9 +2,9 @@
 layout:     post
 title:      意识碗.20240104
 author:     Al
-tags: 		post template
+tags: 		Events Observation
 subtitle:  	“不要温顺地走进那个良夜”，或许，现在正是我们要正视这份告诫的时候
-category:  project1
+category:  consciousnessbowl
 ---
 <!-- Start Writing Below in Markdown -->
 

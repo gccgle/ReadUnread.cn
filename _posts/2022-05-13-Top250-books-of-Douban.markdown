@@ -2,10 +2,10 @@
 layout:     post
 title:      豆瓣TOP250书单
 author:     Al
-tags: 		post template
+tags: 		List Books
 subtitle:  	试用PowerBI的爬虫功能，把豆瓣的TOP250书单给爬了下来。
 
-category:  project1
+category:  read
 ---
 <!-- Start Writing Below in Markdown -->
 
